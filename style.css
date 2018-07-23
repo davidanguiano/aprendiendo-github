@@ -1,6 +1,14 @@
-h1{font-weight: lighter;}
+html, body{
+    width:100%;
+    height:100%;
+    background: #FFFFFF;
+}
 
-body{
-  background:black;
-  color: red;
+div{
+    height:100%;
+    width:70%;
+    background:rgb(255, 255, 226);
+    padding:20px;
+    color:rgb(88, 88, 88);
+    margin-left: 15%;
 }
